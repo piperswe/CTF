@@ -11,7 +11,7 @@ Given the hint "Do you like painting?" and the name of the file ("qr.txt"), it s
 
 ### Resulting QR code:
 
-![QR Code]({{site.baseurl}}/EasyCTF/2015/Coordinates-QR.png)
+![QR Code](/EasyCTF/2015/Coordinates-QR.png)
 
 This QR code is broken. We once tried to scan it (which somehow only worked once) and got an _old_ flag which was changed long back, even though we were using the latest download of the text file.
 
