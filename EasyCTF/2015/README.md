@@ -2,5 +2,5 @@
 ## Problems sorted in Unicode order:
 
  - [Coordinates](Coordinates.md)
-   - [Coordinates.js](coordinates.js)
-   - [Coordinates.html](coordinates.html)
+   - [Coordinates.js](Coordinates.js)
+   - [Coordinates.html](Coordinates.html)
