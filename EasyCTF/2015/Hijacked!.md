@@ -60,6 +60,7 @@ k
 t
 }
 -->
+<more random junk>
 ```
 
 Remove all the whitespace and HTML comment notation and we get "the flag is __easyctf{c0mplet3ly_r3kt}__", the flag!
