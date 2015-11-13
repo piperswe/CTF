@@ -4,3 +4,4 @@
  - [Coordinates](Coordinates.md)
    - [Coordinates.js](Coordinates.js)
    - [Coordinates.html](Coordinates.html)
+ - [Hijacked!](Hijacked!.md)
